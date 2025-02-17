@@ -5,4 +5,3 @@ Remember: Smart solutions can turn challenges into successes.
 
   Artificial neural network was built using Python to predict the best-selling products for the next month based on the data in the file, which includes product type, month, special days, and product shelf life. 
   It is a practical application of the course I conducted at the Artificial Intelligence Club at King Khalid University.
-  Titled: Data Analysis and Artificial Intelligence with Power BI.
